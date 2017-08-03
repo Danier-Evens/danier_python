@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# __author__ = 'Danier'
+# @Time      : 2017/8/3 下午1:59
+# @Author    : 魏晓辉[weixiaohui@souche.com]
+# @CopyRight : DataTeam @ SouChe Inc
+# @Desc      :
 
 # 参考 http://www.oschina.net/code/snippet_736230_26816 http://www.oschina.net/code/snippet_46178_13435
 # 时间操作工具类
